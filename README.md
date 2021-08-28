@@ -40,7 +40,7 @@
 - `/reload` - **Refresh admin list**
 
 <details>
-  <summary>Telegram VC Bot</summary>
+  <summary>MARATHI_WARRIOR_MUSIC</summary>
 
 ```
 Please fork this repository don't import code
