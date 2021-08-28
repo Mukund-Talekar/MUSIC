@@ -11,9 +11,9 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hey, I'm MUSIC BOT🎵
 
-I can play ꬺᶙȿᶖɕ  in your group's voice call. Developed by "[TANAJI](https://t.me/XD_PERSON)"
+I can play ꬺᶙȿᶖɕ  in your group's voice CHAT Developed by [TANAJI🤠](https://t.me/XD_PERSON)
 
-Add me to your group(BAN POWER DE DENA 😆😆) and play music freely!**
+Add me to your group and play music freely😆!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -29,7 +29,7 @@ Add me to your group(BAN POWER DE DENA 😆😆) and play music freely!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "GROUP ME LEJAO 😆", url="https://t.me/{BOT_USERNAME}?startgroup=true"
+                        "GROUP ME LEJAO 😆", url="https://t.me/MARATHA_WARRIOR_MUSIC_1_BOT?startgroup=true"
                     )]
             ]
         ),
