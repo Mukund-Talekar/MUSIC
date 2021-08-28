@@ -26,7 +26,8 @@
       "description": "List of user IDs counted as admin everywhere (separated by space)."
     },
     "ARQ_API_KEY": {
-      "description": "IGNORE THESE VALUE"
+      "description": "IGNORE THESE VALUE",
+      "required":  false
     },
     "BOT_USERNAME": {
       "description": "Your Bot's Username Without @."
