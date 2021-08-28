@@ -69,3 +69,4 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 - **Vivek** (Dev)
 - [TANAJI](https://t.me/XD_PERSON)(DEVELOPER)
 - [MANAV](https://t.me/aloneness24)
+- [AMAN](https://t.me/IDANISHBAABA)
