@@ -7,11 +7,11 @@ from helpers.filters import other_filters2
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_sticker("CAACAgUAAxkBAAIZFWCquxoG_Ervt_4d61DnSF3YKLI9AALGAgAClA5RVUG4_pmGDtAXHwQ")
+    await message.reply_photo("https://telegra.ph/file/632730fba83716c858045.jpg")
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can play ꬺᶙȿᶖɕ  in your group's voice call. Developed by [D3_krish For Telegram voice chat's](https://t.me/D3VIL_SUPPORT).
+I can play ꬺᶙȿᶖɕ  in your group's voice call. Developed by @MARATHAWARRIOR
 
 Add me to your group and play music freely!**
         """,
@@ -19,17 +19,17 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/D3KRISH/D3VILMUSICBOT")
+                        "📠 Source Code 📠", url="https://github.com/tana9373/MARATHA_WARRIOR_MUSIC")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/D3VIL_BOT_SUPPORT"
+                        "📢 SUPPORT GROUP 📢", url="https://t.me/MARATHIWARRIORS"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/D3VIL_SUPPORT"
+                        "🔰COMMAND 🔰", url="https://t.me/MARATH_IWARRIORS/18"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "⚔️ ɕꝍꬼȶᶏɕȶ ȶꝍ ꝍⱳꬼꬴꭉ⚔️", url="https://t.me/D3_krish"
+                        "⚜ DEVELOPER ⚜", url="https://t.me/XD_PERSON"
                     )]
             ]
         ),
@@ -38,12 +38,12 @@ Add me to your group and play music freely!**
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**Group Music Player Online ✅**""",
+      await message.reply_text("""**#MARATHI_WARRIORS_ON_FIRE**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/D3VIL_SUPPORT")
+                        "🔰 COMMANDS 🔰", url="https://t.me/MARATH_IWARRIORS/18")
                 ]
             ]
         )
