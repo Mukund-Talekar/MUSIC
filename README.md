@@ -1,5 +1,5 @@
 ##MARATHI_WARRIOR_MUSIC 
-(https://telegra.ph/file/632730fba83716c858045.jpg)
+https://telegra.ph/file/632730fba83716c858045.jpg
 
 ### Features✨
 
