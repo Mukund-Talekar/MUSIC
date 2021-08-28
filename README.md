@@ -66,10 +66,4 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 
 - **[TG MUSICS](https://github.com/TG-Musics)** (Organization)
 - **Vivek** (Dev)
-- **Aswin Raj** (Helper)
-- **Jayant Hegde Kageri** (Dev)
-- **Fayas** (Helper)
-- **RabbitFoRed** (Dev)
-- **Itz-Fork** (Y)
-- **Uvindu Bro** (Helper)
-- **DaisyX**
+-**[TANAJI](t.me/XD_PERSON) DEVELOPER
