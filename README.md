@@ -1,19 +1,4 @@
-### Telegram Voice Chat Bot
 
-**A bot that can play music on telegram group's voice call.Telegram bot + userbot for streaming audio in group calls.**
-
-<p align="center">
-  <a href="https://github.com/TG-Musics/TG-VCBot">
-     <img height="30px" src="https://img.shields.io/badge/TG%20Music%20Bot-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/musicbotupports)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/musicbotupports)
-
-<p align="center">
-<a href="https://github.com/TG-MUSICS/Telegram_VC_Bot/commits/"> <img src="https://img.shields.io/github/last-commit/TG-MUSICS/TELEGRAM_VC_BOT?color=white&logo=github&logoColor=dark&style=for-the-badge" /></a>
-</p>
 
 ### Features✨
 
