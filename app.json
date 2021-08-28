@@ -3,7 +3,7 @@
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by MARATHA WARRIORS.",
   "logo": "https://telegra.ph/file/632730fba83716c858045.jpg",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ImJanindu/GroupMusicBot",
+  "repository": "https://github.com/tana9373/MARATHA_WARRIOR_MUSIC",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
