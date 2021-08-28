@@ -9,7 +9,7 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     await message.reply_photo("https://telegra.ph/file/632730fba83716c858045.jpg")
     await message.reply_text(
-        f"""**Hey, I'm {bn} 🎵
+        f"""**Hey, I'm MUSIC BOT🎵
 
 I can play ꬺᶙȿᶖɕ  in your group's voice call. Developed by @MARATHAWARRIOR
 
