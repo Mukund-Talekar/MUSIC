@@ -1,7 +1,5 @@
 ##MARATHI_WARRIOR_MUSIC 
 
-<p align="center">
-  <img src="https://telegra.ph/file/fd28c4d14220d0beb3ba1.jpg
 
 ### Features✨
 
@@ -53,7 +51,7 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 ```
 </details>
 
-### Deploy To Heroku 📡</h4>
+### Deploy To Heroku 🔰</h4>
 
 <p align="left">
   <a href="https://heroku.com/deploy?template=https://github.com/tana9373/MARATHA_WARRIOR_MUSIC">
