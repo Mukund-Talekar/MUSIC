@@ -7,11 +7,11 @@ from helpers.filters import other_filters2
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_photo("https://telegra.ph/file/632730fba83716c858045.jpg")
+    await message.reply_photo("https://telegra.ph/file/bfc82f0de5ea1d35830f5.jpg")
     await message.reply_text(
         f"""**Hey, I'm LOVELY MUSIC BOT🎵
 
-I can play ꬺᶙȿᶖɕ  in your group's voice CHAT Developed by [#ℓσvєℓyทєτωσrк](https://t.me/LOVELY_NETWORK)
+I can play ꬺᶙȿᶖɕ  in your group's voice CHAT Powered by [#ℓσvєℓyทєτωσrк](https://t.me/LOVELY_NETWORK)
 
 Add me to your group and play music freely😆!**
         """,
