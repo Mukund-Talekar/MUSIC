@@ -70,3 +70,5 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 - [TANAJI](https://t.me/AQUANAN_XD)(DEVELOPER)
 - [MANAV](https://t.me/aloneness24)
 - [AMAN](https://t.me/IDANISHBAABA)
+- [TUSHAR](https://t.me/TUSHAR204)
+- [#ℓσvєℓyทєτωσrк](https://t.me/LOVELY_NETWORK)
