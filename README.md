@@ -40,7 +40,7 @@
 - `/reload` - **Refresh admin list**
 
 <details>
-  <summary>MARATHI_WARRIOR_MUSIC</summary>
+  <summary>LOVELY MUSIC</summary>
 
 ```
 Please fork this repository don't import code
@@ -54,7 +54,7 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 ### Deploy To Heroku 🔰</h4>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/tana9373/MARATHA_WARRIOR_MUSIC">
+  <a href="https://heroku.com/deploy?template=https://github.com/TEAM-LOVELY/MUSIC">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
@@ -67,6 +67,6 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 
 - **[TG MUSICS](https://github.com/TG-Musics)** (Organization)
 - **Vivek** (Dev)
-- [TANAJI](https://t.me/XD_PERSON)(DEVELOPER)
+- [TANAJI](https://t.me/AQUANAN_XD)(DEVELOPER)
 - [MANAV](https://t.me/aloneness24)
 - [AMAN](https://t.me/IDANISHBAABA)
