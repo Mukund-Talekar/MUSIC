@@ -1,9 +1,9 @@
 {
-  "name": "MARATHA WARRIOR MUSIC",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by MARATHA WARRIORS.",
-  "logo": "https://telegra.ph/file/632730fba83716c858045.jpg",
+  "name": "LOVELY MUSIC",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by #ℓσvєℓyทєτωσrк.",
+  "logo": "https://telegra.ph/file/bfc82f0de5ea1d35830f5.jpg",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/tana9373/MARATHA_WARRIOR_MUSIC",
+  "repository": "https://github.com/TEAM-LOVELY/MUSIC",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
