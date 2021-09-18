@@ -69,6 +69,6 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 - **Vivek** (Dev)
 - [TANAJI](https://t.me/AQUAMAN_XD)(DEVELOPER)
 - [MANAV](https://t.me/aloneness24)
-- [AMAN](https://t.me/IDANISHBAABA)
+- [AMAN](https://t.me/FAKE_FRIENDS_HERE)
 - [TUSHAR](https://t.me/TUSHAR204)
 - [#ℓσvєℓyทєτωσrк](https://t.me/LOVELY_NETWORK)
