@@ -478,7 +478,7 @@ async def play(_, message: Message):
         views = results[0]["views"]
 
     except Exception as e:
-        await lel.edit("Song not found.Try another song or maybe spell it properly.")
+        await lel.edit("Song not found.Try another song or maybe spell it properly.OR REPORT THESE ISSUE TO @LOVELY_5UPPORT.")
         print(str(e))
         return
 
@@ -486,12 +486,12 @@ async def play(_, message: Message):
             [   
                 [
                                
-                    InlineKeyboardButton('📖 Playlist', callback_data='playlist'),
+                    InlineKeyboardButton('Playlist 🎼', callback_data='playlist'),
                     InlineKeyboardButton('Menu ⏯ ', callback_data='menu')
                 
                 ],                     
                 [
-                    InlineKeyboardButton('YouTube 🎬', url=f'{url}'),
+                    InlineKeyboardButton('YouTube 🎥', url=f'{url}'),
                     InlineKeyboardButton('Close 🗑', callback_data='cls')
                 
                 ]                             
@@ -511,7 +511,7 @@ async def play(_, message: Message):
         qeue.append(appendable)
         await message.reply_photo(
         photo="final.png", 
-        caption=f"#⃣ Your requested song **queued** at position {position}!",
+        caption=f"#⃣ Your requested song **queued** at position {position}! JOIN @LOVELY_NETWORK",
         reply_markup=keyboard,
         )
         os.remove("final.png")
@@ -533,7 +533,7 @@ async def play(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption="▶️ **Playing** Here The Song Requested By {}".format(
+        caption="▶️ **Playing** Here The Song Requested By {} JOIN @LOVELY_NETWORK".format(
         message.from_user.mention()
         ),
     )
