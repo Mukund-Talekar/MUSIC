@@ -67,8 +67,8 @@ License -> https://github.com/TG-Musics/TG-VCBOT/blob/main/LICENSE
 
 - **[TG MUSICS](https://github.com/TG-Musics)** (Organization)
 - **Vivek** (Dev)
-- [TANAJI](https://t.me/AQUANAN_XD)(DEVELOPER)
-- [MANAV](https://t.me/aloneness24)
-- [AMAN](https://t.me/IDANISHBAABA)
-- [TUSHAR](https://t.me/TUSHAR204)
-- [#ℓσvєℓyทєτωσrк](https://t.me/LOVELY_NETWORK)
+- [TANAJI](t.me/AQUANAN_XD)(DEVELOPER)
+- [MANAV](t.me/aloneness24)
+- [AMAN](t.me/IDANISHBAABA)
+- [TUSHAR](t.me/TUSHAR204)
+- [#ℓσvєℓyทєτωσrк](t.me/LOVELY_NETWORK)
