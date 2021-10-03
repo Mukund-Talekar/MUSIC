@@ -493,7 +493,8 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton('YouTube 🎥', url=f'{url}'),
                     InlineKeyboardButton('Close 🗑', callback_data='cls')
-                
+                ],[
+                    InlineKeyboardButton("📣 Channel", url=f"https://t.me/ABOUTVEDMAT")  
                 ]                             
             ]
         )
