@@ -8,7 +8,7 @@ from pyrogram.types import Chat, Message, User
 
 async def pmPermit(client: USER, message: Message):
 
-  await USER.send_message(message.chat.id,"Hi there, This is a music assistant service .\n\n ❗️ Rules:\n   - No chatting allowed\n   - No spam allowed \n\n 👉 **SEND GROUP INVITE LINK OR USERNAME IF USERBOT CAN'T JOIN YOUR GROUP.**\n\n ⚠️ Disclamer: If you are sending a message here it means admin will see your message and join chat\n    - Don't add this user to secret groups.\n   - Don't Share private info here\n\n")
-
+  await USER.send_message(message.chat.id,"Hello, I'm lovely official **music assistant of @LOVELYR_OBOT.**\n\n❗️ **notes:**\n\n⫸ don't spam message.\n⫸ don't send me anything confidential\n\n⨀ Join to @ABOUTVEDMAT \n⨀ Join to @LOVELYAPPEAL\n\n🤴 Dev: @TUSHAR204\n\n👩🏻‍🔧 If you want me join to your group, send here your group link, I will joined as soon as possible.\n\n")
+   
   return                        
 
