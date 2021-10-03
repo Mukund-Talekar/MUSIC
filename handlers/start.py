@@ -13,7 +13,7 @@ async def start(_, message: Message):
 
 I can play ꬺᶙȿᶖɕ  in your group's voice CHAT Powered by [#ℓσvєℓyทєτωσrк](https://t.me/LOVELY_NETWORK)
 
-Add me to your group and play music freely😆!**
+Add me to your group and play music freely❣️!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -29,7 +29,7 @@ Add me to your group and play music freely😆!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "GROUP ME LEJAO 😆", url="https://t.me/LOVELYR_OBOT?startgroup=true"
+                        "ADD TO GROUP 🥺", url="https://t.me/LOVELYR_OBOT?startgroup=true"
                     )]
             ]
         ),
