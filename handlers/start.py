@@ -29,7 +29,7 @@ Add me to your group and play music freely❣️!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "ADD TO GROUP 🥺", url="https://t.me/LOVELYR_OBOT?startgroup=true"
+                        "🚀 ADD TO Your GROUP 🚀", url="https://t.me/LOVELYR_OBOT?startgroup=true"
                     )]
             ]
         ),
